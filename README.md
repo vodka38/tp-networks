@@ -26,16 +26,7 @@
 
 ## Structure du projet
 
-tp-networks/
-├── docker-compose.yml
-├── init.sql
-├── app/
-│   ├── app.py
-│   ├── Dockerfile
-│   └── requirements.txt
-└── proxy/
-    ├── nginx.conf
-    └── Dockerfile
+<img width="228" height="266" alt="image" src="https://github.com/user-attachments/assets/7cf6cd81-1d65-4803-a646-7e4aaafbc748" />
 
 ---
 
